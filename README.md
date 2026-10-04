@@ -1,5 +1,5 @@
-<div align="center" herf="https://turbows.pages.dev/">
-  <img alt="Aftercode" width="70%" src="logo.png">
+<div align="center">
+  <img alt="Aftercode" width="70%" src="logo.png" herf="https://turbows.pages.dev/">
 </div>
 <div align="center">
   Hi im katboizz
