@@ -9,3 +9,4 @@
 
 ## Some my stuffs
 - [Aftercode](https://aftercode.pages.dev/editor.html): non-sandbox editor
+- [Terminal simulator](https://katboizz0-arch.github.io/AfterOS-javascript/): javascript terminal extension
