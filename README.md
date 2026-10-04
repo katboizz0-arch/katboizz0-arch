@@ -1,4 +1,4 @@
 <div align="center">
-  <img alt="Aftercode" width="1%" scr="logo.png">
+  <img alt="Aftercode" width="70%" src="logo.png">
 </div>
 <h1>Hi im katboizz</h1>
