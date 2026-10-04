@@ -3,7 +3,7 @@
 </div>
 <div align="center">
   Hi im katboizz
-  <div>im a creator of Aftercode a mod turbowarp</div>
+  <div>A cat furry javascript developer</div>
 </div>
 <br/>
 
