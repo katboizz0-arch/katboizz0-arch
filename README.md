@@ -10,3 +10,4 @@
 ## Some my stuffs
 - [Aftercode](https://aftercode.pages.dev/editor.html): non-sandbox editor
 - [Terminal simulator](https://katboizz0-arch.github.io/AfterOS-javascript/): javascript terminal extension
+- [Studio N3R3](https://katboizz0-arch.github.io/studio-N3R3-repo/): Studio scratch no rules
