@@ -1,1 +1,1 @@
-<div align="center">Hi im katboizz</div>
+<div align="center"><h1>Hi im katboizz</h1></div>
